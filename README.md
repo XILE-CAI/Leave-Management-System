@@ -16,23 +16,30 @@ Data Models:
 2.	Leave Type
 3.	Leave Allocation
 4.	Leave Request
+   
 ![Image Text](https://github.com/XILE-CAI/Leave-Management-System/blob/main/images/DbContextShcema.JPG)
 
  
 Roles: (User)Employee and Administrator
 For (User) Employee: they can apply a leave, browser leave allocation and current leave requests.
 
+![Image Text](https://github.com/XILE-CAI/Leave-Management-System/blob/main/images/applyleave.JPG)
  
- 
+![Image Text](https://github.com/XILE-CAI/Leave-Management-System/blob/main/images/myleaves.JPG)
+
 For Administrator:
 1.	check employee information and edit their leave allocation
-  
+   
+![Image Text](https://github.com/XILE-CAI/Leave-Management-System/blob/main/images/employeesInfo.JPG)
 
+![Image Text](https://github.com/XILE-CAI/Leave-Management-System/blob/main/images/checkallocation.JPG)
 
-2.	create new leave type, allocate leave to employee, editor delete leave type.
-
+3.	create new leave type, allocate leave to employee, editor delete leave type.
+   
+![Image Text](https://github.com/XILE-CAI/Leave-Management-System/blob/main/images/adminleavetype.JPG)
  
-3.	Check total leave requests, review and allow or reject a leave request application 
-
+5.	Check total leave requests, review and allow or reject a leave request application
+   
+![Image Text](https://github.com/XILE-CAI/Leave-Management-System/blob/main/images/leaverequests.JPG)
 
 
