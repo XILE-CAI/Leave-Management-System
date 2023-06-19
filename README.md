@@ -16,6 +16,7 @@ Data Models:
 2.	Leave Type
 3.	Leave Allocation
 4.	Leave Request
+![Image Text](https://github.com/XILE-CAI/Leave-Management-System/blob/main/images/DbContextShcema.JPG)
 
  
 Roles: (User)Employee and Administrator
