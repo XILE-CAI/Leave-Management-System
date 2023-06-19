@@ -1,14 +1,24 @@
 ﻿# Leave-Management-System
 Leave Management System Project - ASP.NET C#
+
 •	Build a fully data-driven web application using cutting-edge technology
+
 •	Connect to a Database using Entity Framework Core
+
 •	Repository Pattern and Dependency Injection
+
 •	Understand how the MVC (Models, Views, and Controllers) Pattern works
+
 •	Understand C# and .NET Core Web Syntax
+
 •	Understand user Authentication using ASP.NET Core Identity
+
 •	Understand how to use Entity Framework Core Data Models, View Models and AutoMapper
+
 •	Understand Security measures to be taken in the development
+
 •	Use Bootstrap to style and manipulate the overall layout
+
 •	Manage Packages with NuGet Manager
 
 Data Models:
